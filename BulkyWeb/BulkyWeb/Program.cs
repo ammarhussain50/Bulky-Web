@@ -27,8 +27,15 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.MapGet("/", context =>
+{
+    context.Response.Redirect("/Ammar/Home/Index");
+    return Task.CompletedTask;
+});
+
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "Ammar/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
