@@ -1,0 +1,12 @@
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
