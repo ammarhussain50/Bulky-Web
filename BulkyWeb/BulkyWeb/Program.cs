@@ -12,7 +12,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 
@@ -31,15 +31,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapGet("/", context =>
-{
-    context.Response.Redirect("/Ammar/Home/Index");
-    return Task.CompletedTask;
-});
+
 
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "Ammar/{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
