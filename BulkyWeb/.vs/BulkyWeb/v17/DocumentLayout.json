@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2357BC0F-DF3B-4DEA-8C18-AB82475177ED}|Bulky.Models\\Bulky.Models.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2357BC0F-DF3B-4DEA-8C18-AB82475177ED}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +59,12 @@
       "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF7E874-2B7F-4A90-877A-5AA69D6BC9EA}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|d:\\c-sharp folder\\mvc project bulky web\\bulkyweb\\bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{14968C5D-A6AD-4831-B666-26F8B75BC6AE}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -114,37 +118,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-12T10:56:41.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T18:02:02.526Z",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:12:50.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:11:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.Models\\Product.cs",
+              "RelativeToolTip": "Bulky.Models\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:41:18.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:14:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:16:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:24:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "BulkyWeb\\ScaffoldingReadMe.txt",
@@ -152,47 +208,24 @@
               "RelativeToolTip": "BulkyWeb\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-11T17:30:31.598Z"
+              "WhenOpened": "2025-11-11T17:30:31.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:24:21.535Z"
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:34:48.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T12:27:15.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Program.cs",
-              "RelativeToolTip": "BulkyWeb\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T19:31:54.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
@@ -205,18 +238,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T13:34:48.256Z"
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:21:49.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Program.cs",
+              "RelativeToolTip": "BulkyWeb\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:31:54.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:07:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:27:15.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -228,31 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T18:16:34.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T18:14:18.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
@@ -264,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
@@ -276,19 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:21:49.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\Error.cshtml",
@@ -300,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
@@ -312,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
@@ -324,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
@@ -336,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20251104111939_Category.Designer.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Migrations\\20251104111939_Category.Designer.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20251104111939_Category.Designer.cs",
@@ -348,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20251104162627_SeedCategoryTable.Designer.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Migrations\\20251104162627_SeedCategoryTable.Designer.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20251104162627_SeedCategoryTable.Designer.cs",
@@ -360,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20251104162627_SeedCategoryTable.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Migrations\\20251104162627_SeedCategoryTable.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20251104162627_SeedCategoryTable.cs",
@@ -372,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20251104111939_Category.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Migrations\\20251104111939_Category.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20251104111939_Category.cs",
@@ -384,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -396,19 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T11:07:25.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "bootstrap.css",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -420,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "SD.cs",
               "DocumentMoniker": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.Utility\\SD.cs",
               "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
