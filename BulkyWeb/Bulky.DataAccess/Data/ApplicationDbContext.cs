@@ -3,17 +3,20 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Bulky.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext<IdentityUser>
+
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
+
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
-
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; } // run migration after this 
         //seed data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -23,7 +26,6 @@ namespace Bulky.DataAccess.Data
                 new Category { Id = 2, Name = "SciFi", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
                 );
-
             modelBuilder.Entity<Product>().HasData(
               new Product
               {
@@ -64,7 +66,7 @@ namespace Bulky.DataAccess.Data
                   Price = 50,
                   Price50 = 40,
                   Price100 = 35,
-                  CategoryId = 2,
+                  CategoryId = 1,
                   ImageUrl = ""
               },
               new Product
@@ -78,7 +80,7 @@ namespace Bulky.DataAccess.Data
                   Price = 65,
                   Price50 = 60,
                   Price100 = 55,
-                  CategoryId = 2,
+                  CategoryId = 1,
                   ImageUrl = ""
               },
               new Product
@@ -92,7 +94,7 @@ namespace Bulky.DataAccess.Data
                   Price = 27,
                   Price50 = 25,
                   Price100 = 20,
-                  CategoryId = 3,
+                  CategoryId = 1,
                   ImageUrl = ""
               },
               new Product
@@ -106,7 +108,7 @@ namespace Bulky.DataAccess.Data
                   Price = 23,
                   Price50 = 22,
                   Price100 = 20,
-                  CategoryId = 3,
+                  CategoryId = 1,
                   ImageUrl = ""
               }
               );
