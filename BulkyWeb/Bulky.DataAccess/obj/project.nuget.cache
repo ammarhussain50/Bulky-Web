@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TfyP/eig0XA=",
+  "dgSpecHash": "/QGBTgkusfQ=",
   "success": true,
   "projectFilePath": "D:\\C-sharp folder\\MVC Project Bulky Web\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.22\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.22.nupkg.sha512",
+    "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.22\\microsoft.aspnetcore.identity.ui.8.0.22.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.3.0\\microsoft.aspnetcore.jsonpatch.2.3.0.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.3.0\\microsoft.aspnetcore.mvc.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.3.0\\microsoft.aspnetcore.mvc.core.2.3.0.nupkg.sha512",
@@ -65,6 +66,7 @@
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.1\\microsoft.extensions.diagnostics.10.0.1.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.1\\microsoft.extensions.diagnostics.abstractions.10.0.1.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.22\\microsoft.extensions.fileproviders.embedded.8.0.22.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.identity.core\\10.0.1\\microsoft.extensions.identity.core.10.0.1.nupkg.sha512",
     "C:\\Users\\AMMAR\\.nuget\\packages\\microsoft.extensions.identity.stores\\10.0.1\\microsoft.extensions.identity.stores.10.0.1.nupkg.sha512",

@@ -10,3 +10,4 @@ D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\
 D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\C-sharp folder\MVC Project Bulky Web\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
