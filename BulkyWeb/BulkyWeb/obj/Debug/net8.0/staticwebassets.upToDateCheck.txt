@@ -8,6 +8,7 @@ wwwroot\images\product\a2f9a30d-98a3-4108-930c-3b5d0339bd7a.jfif
 wwwroot\images\product\a5f0f880-b204-44ff-b2b6-0a5034ceb805.jfif
 wwwroot\images\product\cbaf6a49-c969-44ad-bc03-c04eca175264.jpg
 wwwroot\images\product\fa2b7c55-a93e-4f87-9c32-e3bf7855d3a5.jpg
+wwwroot\js\company.js
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
